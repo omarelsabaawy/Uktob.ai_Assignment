@@ -1,4 +1,4 @@
-# Uktob.ai_Assignment
+# Uktob.ai Assignment
 
 ## Installation
 
@@ -26,7 +26,7 @@ python app.py
 python app.py
 ```
 
-## ReactJS task 1
+## React.js task 1
 
 1. Go to the Task directory `Cd reactjs_front-end-question_1`
 2. Install dependencies: `npm install`
@@ -37,7 +37,7 @@ python app.py
 npm start
 ```
 
-## ReactJS task 2
+## React.js task 2
 
 1. Go to the Task directory `Cd reactjs_front-end-question_2`
 2. Install dependencies: `npm install`
